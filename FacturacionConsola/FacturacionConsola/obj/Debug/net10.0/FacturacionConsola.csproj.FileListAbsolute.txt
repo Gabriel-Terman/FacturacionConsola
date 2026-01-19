@@ -1,0 +1,15 @@
+C:\Users\rt563881\source\repos\FacturacionConsola\FacturacionConsola\obj\Debug\net10.0\FacturacionConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rt563881\source\repos\FacturacionConsola\FacturacionConsola\obj\Debug\net10.0\FacturacionConsola.AssemblyInfoInputs.cache
+C:\Users\rt563881\source\repos\FacturacionConsola\FacturacionConsola\obj\Debug\net10.0\FacturacionConsola.AssemblyInfo.cs
+C:\Users\rt563881\source\repos\FacturacionConsola\FacturacionConsola\obj\Debug\net10.0\FacturacionConsola.csproj.CoreCompileInputs.cache
+C:\Users\rt563881\source\repos\FacturacionConsola\FacturacionConsola\obj\Debug\net10.0\FacturacionConsola.sourcelink.json
+C:\Users\rt563881\source\repos\FacturacionConsola\FacturacionConsola\bin\Debug\net10.0\FacturacionConsola.exe
+C:\Users\rt563881\source\repos\FacturacionConsola\FacturacionConsola\bin\Debug\net10.0\FacturacionConsola.deps.json
+C:\Users\rt563881\source\repos\FacturacionConsola\FacturacionConsola\bin\Debug\net10.0\FacturacionConsola.runtimeconfig.json
+C:\Users\rt563881\source\repos\FacturacionConsola\FacturacionConsola\bin\Debug\net10.0\FacturacionConsola.dll
+C:\Users\rt563881\source\repos\FacturacionConsola\FacturacionConsola\bin\Debug\net10.0\FacturacionConsola.pdb
+C:\Users\rt563881\source\repos\FacturacionConsola\FacturacionConsola\obj\Debug\net10.0\FacturacionConsola.dll
+C:\Users\rt563881\source\repos\FacturacionConsola\FacturacionConsola\obj\Debug\net10.0\refint\FacturacionConsola.dll
+C:\Users\rt563881\source\repos\FacturacionConsola\FacturacionConsola\obj\Debug\net10.0\FacturacionConsola.pdb
+C:\Users\rt563881\source\repos\FacturacionConsola\FacturacionConsola\obj\Debug\net10.0\FacturacionConsola.genruntimeconfig.cache
+C:\Users\rt563881\source\repos\FacturacionConsola\FacturacionConsola\obj\Debug\net10.0\ref\FacturacionConsola.dll
