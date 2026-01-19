@@ -141,3 +141,34 @@ Este método permite mantener un historial aun cuando se cierre la aplicación.
 ```bash
 dotnet build
 dotnet run
+
+🧪 Ejemplo de Uso
+Registrar Producto
+Nombre: Laptop
+Precio: 35000
+¿Exento de impuesto (s/n)?: n
+
+Crear Factura
+Ingrese ID de producto: 1
+Cantidad: 2
+¿Deseas agregar otro producto? (s/n): n
+
+Resultado
+Subtotal: 70000
+Impuestos (18%): 12600
+Total: 82600
+
+
+📈 Mejoras Futuras
+
+Agregar clientes
+Generación de PDF
+Descuentos por línea
+Reportes de ventas
+Validaciones y sanitización de entrada
+Historias de usuario más completas
+
+
+👤 Autor
+Gabriel Terman
+Proyecto desarrollado como parte del módulo de Programación Orientada a Objetos.
