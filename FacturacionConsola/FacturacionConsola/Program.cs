@@ -60,7 +60,7 @@ namespace FacturacionConsola
                             ListInvoices(invoiceService, taxCalculator);
                             break;
                         case "5":
-                            ConfigureTax(configRepo, taxCalculator);   // <-- ya no reasignamos
+                            ConfigureTax(configRepo, taxCalculator);   
                             break;
                         case "0":
                             return;
@@ -120,7 +120,7 @@ namespace FacturacionConsola
                 Console.Write("Ingrese ID de producto (ENTER, 'g' o 'c'): ");
                 var input = (Console.ReadLine() ?? "").Trim().ToLower();
 
-                if (string.IsNullOrEmpty(input) || input == "g") break;     // pasar al resumen/guardado
+                if (string.IsNullOrEmpty(input) || input == "g") break;     
                 if (input == "c") { Console.WriteLine("Factura cancelada.\n"); return; }
 
                 if (!int.TryParse(input, out var productId))
@@ -143,7 +143,6 @@ namespace FacturacionConsola
                     continue;
                 }
 
-                // ✅ Agrega al MISMO objeto 'inv'
                 invoiceService.AddItem(inv, productId, qty);
 
                 Console.WriteLine($"Producto agregado: {product.Name} x{qty} - Subtotal línea: {(product.Price * qty):N2}");
@@ -227,5 +226,6 @@ namespace FacturacionConsola
         }
 
     }
+
 
 }
