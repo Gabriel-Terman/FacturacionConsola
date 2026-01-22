@@ -10,5 +10,23 @@
     "Name": "Mouse",
     "Price": 400,
     "IsTaxExempt": true
+  },
+  {
+    "Id": 3,
+    "Name": "Dell Optiplex 7000",
+    "Price": 12000,
+    "IsTaxExempt": false
+  },
+  {
+    "Id": 4,
+    "Name": "Teclado",
+    "Price": 500,
+    "IsTaxExempt": false
+  },
+  {
+    "Id": 5,
+    "Name": "Pantalla",
+    "Price": 12000,
+    "IsTaxExempt": false
   }
 ]
