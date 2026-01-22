@@ -1,8 +1,22 @@
 [
   {
-    "Id": "2cd19a61132b4fd0953155c05cae7f6d",
+    "Id": 0,
     "Number": "1",
-    "Date": "2026-01-19T11:07:20.001785-04:00",
+    "Date": "2026-01-21T09:27:05.3381845-04:00",
+    "Items": [
+      {
+        "ProductId": 2,
+        "ProductName": "Mouse",
+        "UnitPrice": 400,
+        "Quantity": 3,
+        "IsTaxExempt": true
+      }
+    ]
+  },
+  {
+    "Id": 0,
+    "Number": "2",
+    "Date": "2026-01-21T15:05:14.1628233-04:00",
     "Items": [
       {
         "ProductId": 1,
@@ -10,40 +24,54 @@
         "UnitPrice": 35000,
         "Quantity": 2,
         "IsTaxExempt": false
+      },
+      {
+        "ProductId": 4,
+        "ProductName": "Teclado",
+        "UnitPrice": 500,
+        "Quantity": 1,
+        "IsTaxExempt": false
       }
     ]
   },
   {
-    "Id": "516295601e164d6a9c5c6884134efb8f",
-    "Number": "2",
-    "Date": "2026-01-19T11:09:51.7027983-04:00",
+    "Id": 0,
+    "Number": "3",
+    "Date": "2026-01-21T15:07:25.8441759-04:00",
     "Items": [
       {
         "ProductId": 1,
         "ProductName": "Laptop",
         "UnitPrice": 35000,
-        "Quantity": 3,
+        "Quantity": 1,
         "IsTaxExempt": false
       },
       {
         "ProductId": 2,
         "ProductName": "Mouse",
         "UnitPrice": 400,
-        "Quantity": 1,
+        "Quantity": 3,
         "IsTaxExempt": true
       }
     ]
   },
   {
-    "Id": "c5e28836e93743f1ac78a7306d547188",
-    "Number": "3",
-    "Date": "2026-01-19T13:03:31.6321785-04:00",
+    "Id": 0,
+    "Number": "4",
+    "Date": "2026-01-21T15:25:08.1715724-04:00",
     "Items": [
+      {
+        "ProductId": 5,
+        "ProductName": "Pantalla",
+        "UnitPrice": 12000,
+        "Quantity": 2,
+        "IsTaxExempt": false
+      },
       {
         "ProductId": 1,
         "ProductName": "Laptop",
         "UnitPrice": 35000,
-        "Quantity": 3,
+        "Quantity": 2,
         "IsTaxExempt": false
       }
     ]
